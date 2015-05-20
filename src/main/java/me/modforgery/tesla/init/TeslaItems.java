@@ -1,4 +1,7 @@
-import me.modforgery.tesla.item.*;
+import me.modforgery.tesla.item.CraftingItem;
+import me.modforgery.tesla.item.TPDevice;
+import me.modforgery.tesla.item.TVoltmeter;
+
 
   public static Item copper_ingot;
   public static Item tin_ingot;
