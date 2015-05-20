@@ -2,6 +2,7 @@ import me.modforgery.tesla.item.CraftingItem;
 import me.modforgery.tesla.item.TPDevice;
 import me.modforgery.tesla.item.TVoltmeter;
 
+import cpw.mods.fml.common.registry.GameRegistry;
 
   public static Item copper_ingot;
   public static Item tin_ingot;
