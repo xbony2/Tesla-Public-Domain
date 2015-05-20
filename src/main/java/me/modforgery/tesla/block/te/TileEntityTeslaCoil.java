@@ -21,7 +21,7 @@ public class TileEntityTeslaCoil extends TileEntity implements IPoweredTile {
                    if(tile != null && tile instanceof IPoweredTile){
                        if(tile instanceof TileEntityTeslaCoil){
                            //TODO balace the power here
-                           //TODO Find out how meny it is connected to here
+                           //TODO Find out how many it is connected to here
                        }else {
                            //TODO move the power here to all of the powered tiles
                            if (FMLCommonHandler.instance().getSide() == Side.CLIENT){
