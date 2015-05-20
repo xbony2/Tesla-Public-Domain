@@ -1,4 +1,4 @@
-@Override
+        @Override
         public boolean hasSearchBar() {
             return true;
         }
