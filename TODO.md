@@ -5,4 +5,4 @@
 * Add Tin Block Texture I made.
 * Add Tin Ore Texutre I made
 * Add Tin Ingot texture I made.
-* Make patches (with much duct tape).
+* Make patches (with much duct tape). Many files don't even have a class declaration.
