@@ -1,6 +1,5 @@
 package me.modforgery.tesla.api.power;
 
-
 public class PoweredTile {
 
 
