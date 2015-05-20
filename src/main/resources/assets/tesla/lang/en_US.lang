@@ -1,0 +1,7 @@
+item.tpDevice.name=Tesla Pairing Device
+item.tVoltmeter.name=Tesla Voltmeter
+item.coil.name=Coil
+item.Conductor.name=Conductor
+item.copper_ingot.name=Copper Ingot
+
+tile.teslaBase.name=Telsa Base
