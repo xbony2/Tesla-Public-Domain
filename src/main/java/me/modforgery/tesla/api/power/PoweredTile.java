@@ -1,17 +1,17 @@
 package me.modforgery.tesla.api.power;
 
 
-public class PowedTile {
+public class PoweredTile {
 
 
     public int plasma;
     public int maxPlasma;
 
-    public PowedTile() {
+    public PoweredTile() {
         maxPlasma = 1000;
     }
 
-    public PowedTile(int maxPlasmaStored) {
+    public PoweredTile(int maxPlasmaStored) {
         maxPlasma = maxPlasmaStored;
     }
 
