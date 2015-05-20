@@ -2,7 +2,6 @@ package me.modforgery.tesla.api.power;
 
 public class PoweredTile {
 
-
     public int plasma;
     public int maxPlasma;
 
