@@ -3,5 +3,9 @@ item.tVoltmeter.name=Tesla Voltmeter
 item.coil.name=Coil
 item.Conductor.name=Conductor
 item.copper_ingot.name=Copper Ingot
+item.tin_ingot.name=Tin Ingot
 
 tile.teslaBase.name=Telsa Base
+tile.oreTin.name=Tin Ore
+tile.blockCopper.name=Copper Block
+tile.blockTin.name=Tin Block
